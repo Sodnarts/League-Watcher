@@ -1,4 +1,4 @@
-import { Button, InputBase, withStyles, WithStyles } from '@material-ui/core';
+import { InputBase, withStyles, WithStyles } from '@material-ui/core';
 import SearchIcon from '@material-ui/icons/Search';
 import StarIcon from '@material-ui/icons/Star';
 import StarBorderIcon from '@material-ui/icons/StarBorder';
